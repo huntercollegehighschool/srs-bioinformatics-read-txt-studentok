@@ -12,5 +12,5 @@ if program == "A":
 elif program == "B":
   import Baminoacids
   protein = "SKADYEK"
-  Baminoacids.weightedstring(protein)
+  print (Baminoacids.weightedstring(protein))
   
